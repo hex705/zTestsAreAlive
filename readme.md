@@ -16,3 +16,11 @@ how to do colours ?
 bills@hotmail.com
 
 
+roses are red violets are blue
+
+roses are red 
+violets are blue
+
+roses are red 
+
+violes are blue
