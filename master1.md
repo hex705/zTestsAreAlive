@@ -1,3 +1,9 @@
+Master1 gets a file insert from MAster
+
+
+
+
+
 markdownTEST
 
 NOW CLASS __ WE HABE TO ADD SOME DETAILS
