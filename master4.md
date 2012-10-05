@@ -1,4 +1,6 @@
 
+teach 1
+
 TEACHER ADDS:
 
 students should not delete!!!
