@@ -1,3 +1,10 @@
+
+TEACHER ADDS:
+
+students should not delete!!!
+
+
+
 his file is totally fdifferent -- we are now trying something eelse.
 
 this is the third file in this collection 
